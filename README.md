@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on secure computing platform in UBIC Technologies.
+- 🔭 I’m currently working on experimentation platform at Wolt.
 - 💬 You can ask me about Python and Backend.
 - 📫 Reach me by email: nik.kunevich at gmail.com or tg: @nikitaKunevich
